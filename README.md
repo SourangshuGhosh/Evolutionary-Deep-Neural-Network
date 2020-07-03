@@ -1,5 +1,5 @@
 # Evolutionary-Deep-Neural-Network
-Please read REAdME.docx file
+Please read README.docx file
 
 
 
